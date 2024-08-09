@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "title": "Your Trusted Electronics Store",
+    "paragraph": "Explore a wide range of top-notch electronics, from the latest gadgets to essential home appliances. Quality, reliability, and innovation are just a click away."
+  },
+  "About": {
+    "paragraph": "At our electronics store, we bring you the best in technology. Whether you're looking for the latest smartphones, cutting-edge laptops, or reliable home appliances, we've got you covered. Our products are sourced from trusted brands, ensuring you get value for your money.",
+    "Why": [
+      "Top-Quality Products",
+      "Latest Technology",
+      "Trusted Brands",
+      "Affordable Prices"
+    ],
+    "Why2": [
+      "Exceptional Customer Support",
+      "Fast Delivery",
+      "Secure Shopping",
+      "Warranty on Products"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Smartphone Collection",
+      "largeImage": "img/portfolio/smartphones-large.jpg",
+      "smallImage": "img/portfolio/smartphones-small.jpg"
+    },
+    {
+      "title": "Home Appliances",
+      "largeImage": "img/portfolio/appliances-large.jpg",
+      "smallImage": "img/portfolio/appliances-small.jpg"
+    },
+    {
+      "title": "Laptops & Computers",
+      "largeImage": "img/portfolio/laptops-large.jpg",
+      "smallImage": "img/portfolio/laptops-small.jpg"
+    },
+    {
+      "title": "Audio & Video",
+      "largeImage": "img/portfolio/audio-video-large.jpg",
+      "smallImage": "img/portfolio/audio-video-small.jpg"
+    },
+    {
+      "title": "Wearable Tech",
+      "largeImage": "img/portfolio/wearables-large.jpg",
+      "smallImage": "img/portfolio/wearables-small.jpg"
+    },
+    {
+      "title": "Gaming Consoles",
+      "largeImage": "img/portfolio/gaming-large.jpg",
+      "smallImage": "img/portfolio/gaming-small.jpg"
+    },
+    {
+      "title": "Kitchen Appliances",
+      "largeImage": "img/portfolio/kitchen-appliances-large.jpg",
+      "smallImage": "img/portfolio/kitchen-appliances-small.jpg"
+    },
+    {
+      "title": "Office Equipment",
+      "largeImage": "img/portfolio/office-equipment-large.jpg",
+      "smallImage": "img/portfolio/office-equipment-small.jpg"
+    },
+    {
+      "title": "Accessories",
+      "largeImage": "img/portfolio/accessories-large.jpg",
+      "smallImage": "img/portfolio/accessories-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-mobile",
+      "name": "Latest Smartphones",
+      "text": "Discover the latest smartphones with cutting-edge features and designs."
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "Computers & Laptops",
+      "text": "Get high-performance laptops and desktops for work, play, and everything in between."
+    },
+    {
+      "icon": "fa fa-microchip",
+      "name": "Tech Accessories",
+      "text": "Complete your tech setup with our range of premium accessories."
+    },
+    {
+      "icon": "fa fa-plug",
+      "name": "Home Appliances",
+      "text": "Upgrade your home with our efficient and reliable appliances."
+    },
+    {
+      "icon": "fa fa-headphones",
+      "name": "Audio & Video",
+      "text": "Experience immersive sound and visuals with our audio and video products."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Repair Services",
+      "text": "We offer repair services for all your electronic devices, ensuring they work like new."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"The best place to buy electronics! Great quality, fast delivery, and excellent customer service.\"",
+      "name": "Jane Smith"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I purchased a laptop from here, and it's been fantastic. Highly recommend this store!\"",
+      "name": "Michael Johnson"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Amazing range of products and very competitive prices. I'm a regular customer now.\"",
+      "name": "Emily Davis"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Their customer support is top-notch. They helped me choose the perfect smartphone.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"The quality of the products is excellent. I bought a fridge and it's working great!\"",
+      "name": "Sarah Lee"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"This store offers the best deals on electronics. I'm very satisfied with my purchases.\"",
+      "name": "David Kim"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Johnson",
+      "job": "Head of Sales"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Lead Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Smith",
+      "job": "Operations Manager"
+    }
+  ],
+  "Contact": {
+    "address": "PLOT NO 7, WARD NO 14, BHANDUNDA KALAN, Islampur, Jhunjhunu, Rajasthan, 333024",
+    "email": "support@vijayenterprises.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-shield",
+      "title": "Quality Assurance",
+      "text": "All our products go through rigorous testing to ensure they meet the highest standards."
+    },
+    {
+      "icon": "fa fa-truck",
+      "title": "Fast Delivery",
+      "text": "Get your products delivered quickly and safely to your doorstep."
+    },
+    {
+      "icon": "fa fa-thumbs-up",
+      "title": "Trusted Brands",
+      "text": "We only partner with trusted brands to bring you the best in electronics."
+    },
+    {
+      "icon": "fa fa-handshake-o",
+      "title": "Customer Satisfaction",
+      "text": "Your satisfaction is our priority. We offer easy returns and responsive support."
+    }
+  ]
+}
