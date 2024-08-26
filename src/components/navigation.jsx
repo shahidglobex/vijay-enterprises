@@ -42,7 +42,11 @@ export const Navigation = (props) => {
                 Services
               </a>
             </li>
-         
+            <li>
+              <a href="https://shop.vijayenterprises.online" className="page-scroll">
+                Shop Now
+              </a>
+            </li>
             <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
@@ -50,7 +54,6 @@ export const Navigation = (props) => {
             </li>
            
             <li>
-              
               <a href="#contact" className="page-scroll">
                 Contact
               </a>
