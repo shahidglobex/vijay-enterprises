@@ -8,10 +8,11 @@ export const PrivacyPolicy = () => {
           <h2>Privacy Policy</h2>
           <p>
             These terms and conditions outline the rules and regulations for the
-            use of [YOUR NEW WEBSITE NAME], located at [YOUR WEBSITE URL]. By
-            accessing this website, we assume you accept these terms and
-            conditions. Do not continue to use [YOUR WEBSITE NAME] if you do not
-            agree to all of the terms and conditions stated on this page.
+            use of Vijay Enterprises, located at
+            https://www.vijayenterprises.online. By accessing this website, we
+            assume you accept these terms and conditions. Do not continue to use
+            Vijay Enterprises if you do not agree to all of the terms and
+            conditions stated on this page.
           </p>
         </div>
         <div id="row">
@@ -23,7 +24,7 @@ export const PrivacyPolicy = () => {
                   The Client understands and agrees that all investment and/or
                   trading decisions are based on the Client's own investment
                   objectives and evaluation of prevailing financial
-                  circumstances. [Your New Website Name] is merely a facilitator
+                  circumstances. Vijay Enterprises is merely a facilitator
                   providing access to its Clients to participate in the
                   financial and commodity markets and does not seek to influence
                   or otherwise affect the decision-making process of its Clients
@@ -37,63 +38,61 @@ export const PrivacyPolicy = () => {
                   process as may be prescribed from time to time. To register
                   yourself, you are required to follow the procedure mentioned
                   on the Platform, along with any instructions communicated to
-                  you by [Your New Website Name]'s employees or
-                  representatives.
+                  you by Vijay Enterprises's employees or representatives.
                 </p>
 
                 <h4>Price Data</h4>
                 <p>
-                  [Your New Website Name] does not share real-time price data,
-                  except with third parties where it is required for the orderly
+                  Vijay Enterprises does not share real-time price data, except
+                  with third parties where it is required for the orderly
                   functioning of the securities market, or where permitted by
                   Applicable Law.
                 </p>
 
                 <h4>Fees and Brokerage</h4>
                 <p>
-                  The Client agrees to pay [Your New Website Name] all
-                  brokerages, transaction charges, commissions, fees, GST, and
-                  other taxes or levies, by whatever name so called, as informed
-                  to the Client by [Your New Website Name] from time to time in
-                  writing.
+                  The Client agrees to pay Vijay Enterprises all brokerages,
+                  transaction charges, commissions, fees, GST, and other taxes
+                  or levies, by whatever name so called, as informed to the
+                  Client by Vijay Enterprises from time to time in writing.
                 </p>
 
                 <h4>Termination</h4>
                 <p>
-                  [Your New Website Name] may terminate or suspend your account
-                  at any time for any reason, without prior notice. You may also
+                  Vijay Enterprises may terminate or suspend your account at any
+                  time for any reason, without prior notice. You may also
                   terminate your account at any time by following the
                   instructions on the website.
                 </p>
 
                 <h4>Limitation of Liability</h4>
                 <p>
-                  [Your New Website Name] is not liable for any direct or
-                  indirect damages, including but not limited to loss of
-                  capital, data, or use, arising from your use of [Your New
-                  Website Name] or its services.
+                  Vijay Enterprises is not liable for any direct or indirect
+                  damages, including but not limited to loss of capital, data,
+                  or use, arising from your use of [Your New Website Name] or
+                  its services.
                 </p>
 
                 <h4>Intellectual Property</h4>
                 <p>
                   All intellectual property, including in relation to the
-                  Platforms, belongs exclusively to [Your New Website Name] or
-                  is licensed to [Your New Website Name].
+                  Platforms, belongs exclusively to Vijay Enterprises or is
+                  licensed to Vijay Enterprises.
                 </p>
 
                 <h4>Indemnities</h4>
                 <p>
-                  The Client agrees to indemnify and hold [Your New Website
-                  Name], its affiliates, partners, directors, employees, and
-                  agents harmless against any losses that may be suffered by it,
-                  its other customers, or any third parties.
+                  The Client agrees to indemnify and hold Vijay Enterprises, its
+                  affiliates, partners, directors, employees, and agents
+                  harmless against any losses that may be suffered by it, its
+                  other customers, or any third parties.
                 </p>
 
                 <h4>Force Majeure</h4>
                 <p>
-                  [Your New Website Name] shall not be responsible for any
-                  delays or defaults in the performance of its obligations due
-                  to any contingencies beyond its control.
+                  Vijay Enterprises shall not be responsible for any delays or
+                  defaults in the performance of its obligations due to any
+                  contingencies beyond its control.
                 </p>
 
                 <h4>Severability</h4>
@@ -108,7 +107,7 @@ export const PrivacyPolicy = () => {
                 <p>
                   The refund & cancellation policy for all payments made or fees
                   paid towards account opening or availing of any other services
-                  from [Your New Website Name] shall be as follows:...
+                  from Vijay Enterprises shall be as follows:...
                 </p>
 
                 <h4>Governing Law, Jurisdiction and Dispute Resolution</h4>
