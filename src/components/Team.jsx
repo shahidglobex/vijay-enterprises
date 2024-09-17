@@ -69,8 +69,8 @@ export const PrivacyPolicy = () => {
                 <p>
                   Vijay Enterprises is not liable for any direct or indirect
                   damages, including but not limited to loss of capital, data,
-                  or use, arising from your use of [Your New Website Name] or
-                  its services.
+                  or use, arising from your use of Vijay Enterprises or its
+                  services.
                 </p>
 
                 <h4>Intellectual Property</h4>
@@ -113,7 +113,7 @@ export const PrivacyPolicy = () => {
                 <h4>Governing Law, Jurisdiction and Dispute Resolution</h4>
                 <p>
                   The Terms and the use of the website are governed by and
-                  construed in accordance with the laws of [Your Country].
+                  construed in accordance with the laws of India.
                 </p>
 
                 <h4>Notice</h4>
